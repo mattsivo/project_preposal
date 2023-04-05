@@ -36,4 +36,4 @@ After that, They would have the option to create a new password or keep the old.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-
+My partner and I will work collaboratively. I think we work better when we are together also, it will simulate working with a coworker in a future career. We will need to work on skills suhc as recognizing charcters in inputs and if/else statements. 
