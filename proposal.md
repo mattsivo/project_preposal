@@ -24,16 +24,16 @@ Ellen Huber, ellen.hueber@temple.edu, Rahad Nabid
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-I am hoping to become more confident in my coding skills and be able to work collaboratively with my partner.
+We definently accomplish the password strengthening code. I also hope to become more comfortable coding on my own. 
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-I better outcome would be growing my python skills and not h
+After the password is created, I want another set of code to ask the password, input it incorrectly, then ask the security questions in order to retrieve your password. 
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-TODO
+After that, They would have the option to create a new password or keep the old. If new, then run through the entire code again. Finally, I want to become much more confident and comfortable with understanding skills and techniques of coding. 
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
+
