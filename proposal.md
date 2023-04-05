@@ -2,15 +2,15 @@
 
 ## What will (likely) be the title of your project?
 
-TODO
+The Ultimate Password Strengthening Tool
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-TODO
+The project will help you create a strong passwaord based off of a set amount of criterias. 
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-TODO
+The project will ahve you input a password. It will tell you yo add certain characters and tell you how strong or weak your password is. You will keep being asked to enter a strong password until it meets all of the criteria. Then you will be asked security questions to strengthen the password and allow you access the acount if you ever forgot your password. 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
@@ -18,7 +18,7 @@ N/A
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
-Ellen Huber, ellen.hueber@temple.edu, 
+Ellen Huber, ellen.hueber@temple.edu, Rahad Nabid 
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
